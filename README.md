@@ -14,7 +14,7 @@ Quantumult x1
 
 输入：
 ```
-https://raw.githubusercontent.com/Jimmy0w0/Quantumult-Proxy-for-GFW/master/quantumult_20190118224842.conf
+https://raw.githubusercontent.com/Jimmy0w0/Quantumult-Proxy-for-GFW/master/quantumult_20190120130049.conf
 ```
 等待10秒左右，即可享受墙外的世界
 
