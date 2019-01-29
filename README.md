@@ -21,4 +21,4 @@ https://raw.githubusercontent.com/Jimmy0w0/Quantumult-Proxy-for-GFW/master/quant
 
 没有Quantumult的用户可到淘宝购买一个已经`买有`Quantumult的美区账号：[TB链接](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.46732e8dotkgJy&id=584590269448&_u=j1put2rt7420)
 
-目前已经减少到96个节点，请等待后续更新配置文件
+每周更新一次
